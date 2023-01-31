@@ -30,8 +30,8 @@ nav a {
     flex-direction: row;
   }
 }
-* {
-  background-color: red;
+body {
+  background-color: white;
 }
 header {
   background-color: blanchedalmond;
